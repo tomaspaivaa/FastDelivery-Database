@@ -30,4 +30,7 @@ The project includes a complete relational schema.
 ![Physical ER Diagram](images/ER_physical.jpg)
 
 
+---
+
+*This work was completed as part of the “Databases” course during the 2024/2025 academic year.*
 
