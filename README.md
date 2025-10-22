@@ -32,5 +32,5 @@ The project includes a complete relational schema.
 
 ---
 
-*This work was completed as part of the “Databases” course during the 2024/2025 academic year.*
+*This work was completed as part of the “Databases” course during the 2024/2025 academic year in a group of 4 members. (Grade: 9.2 out of 10)*
 
